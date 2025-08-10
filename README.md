@@ -1,4 +1,5 @@
 # 🤖 Chatbot Project — Step-by-Step Workflow
+<img width="1920" height="1080" alt="Screenshot (422)" src="https://github.com/user-attachments/assets/5c40559f-ed1d-45ba-abe0-4cf2f1d1ab2e" />
 
 This project builds a chatbot using **LiteLLM** and **Gradio**, evolving from a simple Q&A bot to a context-aware assistant with a modern UI and format handling.
 
